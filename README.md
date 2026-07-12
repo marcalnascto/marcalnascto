@@ -44,8 +44,8 @@ Aqui estão algumas tecnologias que utilizo ou estou estudando:
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcalnascto&show_icons=true&theme=radical&include_all_commits=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcalnascto&layout=compact&theme=radical" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.all-in-one.workers.dev/api?username=marcalnascto&show_icons=true&theme=radical&include_all_commits=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.all-in-one.workers.dev/api/top-langs/?username=marcalnascto&layout=compact&theme=radical" height="180" alt="Linguagens mais usadas" />
 </p>
 
 ---
